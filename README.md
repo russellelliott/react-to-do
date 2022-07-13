@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Source
+Todo list in react: https://dev.to/joelynn/build-a-react-crud-todo-app-add-read-todos-1l8a
+Source code: https://codesandbox.io/s/build-a-todo-app-with-react-cc4l8?file=/src/App.js
+
 ## Available Scripts
 
 In the project directory, you can run:
